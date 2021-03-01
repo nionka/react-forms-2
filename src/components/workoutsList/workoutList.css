@@ -1,0 +1,15 @@
+.list {
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.list__title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.list__title span {
+    padding: 0 20px;
+}
